@@ -24,5 +24,5 @@ Usage
 License
 --------------------
 
-[WTFPL](http://sam.zoy.org/wtfpl/COPYING)
-
+[MIT](http://opensource.org/licenses/MIT)
+Written in 2012,2013
